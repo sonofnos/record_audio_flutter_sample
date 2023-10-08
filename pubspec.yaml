@@ -36,6 +36,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   record: ^4.4.4 // audio recorder plugin/package
+  audioplayers: ^5.2.0 // audio player plugin/package
 
 dev_dependencies:
   flutter_test:
